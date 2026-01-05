@@ -137,8 +137,9 @@ Si queremos más revenue base:
 - Considerar: mínimo $0.10 por transacción o solo aplicar % a TPV > $500
 
 ### Competencia
-- Investigar qué cobran otros orquestadores en LATAM
-- Stripe Connect, PayU, etc.
+- Ver [[Competencia Venezuela]] para análisis detallado
+- Credicard cobra 1.45% - 10.5%
+- Crixto tiene ~7% spread implícito sobre P2P
 
 ---
 
